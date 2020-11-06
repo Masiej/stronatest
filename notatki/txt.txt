@@ -1,9 +1,23 @@
 txt
 
+<<<<<<< Updated upstream
 lore txt
 txt
 loremtxt
 loremtxt loremtxt
 loremtxloremtxt
+=======
+lorem
+
+txt
+
+loremtxt
+
+loremtxt
+
+loremtxt
+
+loremtxt
+>>>>>>> Stashed changes
 
 lorem
